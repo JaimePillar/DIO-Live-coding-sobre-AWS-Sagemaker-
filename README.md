@@ -1,4 +1,4 @@
-# dio-live-sagemaker-20082021
+# Live da DIO AWS Sagemaker 20-08-2021
 
 ## Introdução
 Repositório de dados para a live coding sobre AWS Sagemaker do dia 20/08/2021
